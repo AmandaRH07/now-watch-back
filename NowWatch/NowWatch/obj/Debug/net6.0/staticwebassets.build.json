@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "OKNSrPuijSxTUoj7kZ8gShaLotJrL6wyCoemEIHkFB8=",
-  "Source": "NowWatch",
-  "BasePath": "_content/NowWatch",
+  "Hash": "U5oUQ9+3LMbE+DaPDf/abkHIcwujOZmLLFLVnE/TNMQ=",
+  "Source": "NowWatch.Web",
+  "BasePath": "_content/NowWatch.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

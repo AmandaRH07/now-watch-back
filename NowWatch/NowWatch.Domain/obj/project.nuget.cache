@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "LQPKWEVBkjQzwSji4EkyNXF4nxRBt2DNdQfeEW30lwUreTYaZeBbEpG830SraBHzXHc0jXzcz1tYTCGR0Tb3Pw==",
+  "dgSpecHash": "3U7dmWhSx3t8jPc56Jt2FOY50xQPHjA46kxGRvUdS3TJY9YUxVDGCeHaFHhTM2rj+e7z3ldQT/ixZ0924V0kcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amanda.hass\\OneDrive - Anheuser-Busch InBev\\My Documents\\Projetos\\NowWatch\\now-watch-back\\NowWatch\\NowWatch.Domain\\NowWatch.Models.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\amanda.hass\\OneDrive - Anheuser-Busch InBev\\My Documents\\Projetos\\NowWatch\\now-watch-back\\NowWatch\\NowWatch.Domain\\NowWatch.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\amanda.hass\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

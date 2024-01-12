@@ -1,0 +1,13 @@
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\bin\Debug\net6.0\NowWatch.Domain.deps.json
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\bin\Debug\net6.0\NowWatch.Domain.dll
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\bin\Debug\net6.0\NowWatch.Domain.pdb
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.csproj.AssemblyReference.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.AssemblyInfoInputs.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.AssemblyInfo.cs
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.sourcelink.json
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.dll
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\refint\NowWatch.Domain.dll
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\NowWatch.Domain.pdb
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\obj\Debug\net6.0\ref\NowWatch.Domain.dll

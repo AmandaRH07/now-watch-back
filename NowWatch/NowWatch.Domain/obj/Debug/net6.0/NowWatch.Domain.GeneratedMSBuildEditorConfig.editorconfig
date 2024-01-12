@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NowWatch.Domain
 build_property.ProjectDir = C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

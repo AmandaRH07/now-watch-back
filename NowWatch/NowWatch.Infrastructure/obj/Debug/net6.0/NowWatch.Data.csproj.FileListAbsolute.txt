@@ -1,0 +1,15 @@
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\bin\Debug\net6.0\NowWatch.Data.deps.json
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\bin\Debug\net6.0\NowWatch.Data.runtimeconfig.json
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\bin\Debug\net6.0\NowWatch.Data.dll
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\bin\Debug\net6.0\NowWatch.Data.pdb
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.csproj.AssemblyReference.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.AssemblyInfoInputs.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.AssemblyInfo.cs
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.csproj.CoreCompileInputs.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.sourcelink.json
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.dll
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\refint\NowWatch.Data.dll
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.pdb
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\NowWatch.Data.genruntimeconfig.cache
+C:\Users\amanda.hass\OneDrive - Anheuser-Busch InBev\My Documents\Projetos\NowWatch\now-watch-back\NowWatch\NowWatch.Infrastructure\obj\Debug\net6.0\ref\NowWatch.Data.dll
