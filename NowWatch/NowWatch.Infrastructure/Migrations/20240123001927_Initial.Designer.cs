@@ -11,7 +11,7 @@ using NowWatch.Data.Context;
 namespace NowWatch.Data.Migrations
 {
     [DbContext(typeof(BdContext))]
-    [Migration("20240112004041_Initial")]
+    [Migration("20240123001927_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,7 +37,7 @@ namespace NowWatch.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("UserMaps");
+                    b.ToTable("Users");
                 });
 #pragma warning restore 612, 618
         }

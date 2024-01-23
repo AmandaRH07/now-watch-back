@@ -35,7 +35,7 @@ namespace NowWatch.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("UserMaps");
+                    b.ToTable("Users");
                 });
 #pragma warning restore 612, 618
         }

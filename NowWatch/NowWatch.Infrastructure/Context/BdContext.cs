@@ -1,12 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NowWatch.Data.Mappings;
 using NowWatch.Data.Models;
 
 namespace NowWatch.Data.Context
 {
     public class BdContext : DbContext
     {
-        public DbSet<User> UserMaps { get; set; }
+        public DbSet<User> Users { get; set; }
 
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
          {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NowWatch.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a187786e833797625bd28d41a731ac074799a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735f004839fcd8d1834d76e1ebca469d1a05c07d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NowWatch.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NowWatch.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
