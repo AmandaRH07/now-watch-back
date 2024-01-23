@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NowWatch.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5a6ce954581b5d3bfb407bd7ca314d8c1681a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8a187786e833797625bd28d41a731ac074799a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NowWatch.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NowWatch.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
